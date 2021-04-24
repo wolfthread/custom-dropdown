@@ -1,6 +1,6 @@
 # Dropdown
 
-This is a Custom Dropdown React Component.
+This is a fully customizable Dropdown React Component.
 
 ## Purpose
 
@@ -167,7 +167,7 @@ Simply calling the Dropdown component with the placeholder, choices list and han
 
 **default style**
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/custom-dropdown/default.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/custom-dropdown/default.gif)
 
 ---
 
@@ -197,7 +197,7 @@ Example 1, adding custom style:
 
 **custom style 1**
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/custom-dropdown/custom1.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/custom-dropdown/custom1.gif)
 
 ---
 
@@ -225,11 +225,11 @@ Example 2, adding custom style:
 
 **custom style example 2**
 
-![](https://github.com/wolfthread/images-for-react-components-showcase/blob/main/custom-dropdown/custom2.gif)
+![](https://github.com/syldess/images-for-react-components-showcase/blob/main/custom-dropdown/custom2.gif)
 
 ## Demo
 
-Try it on [CodePen](https://codepen.io/wolfthread/full/ZEpvbQM).
+Try it on [CodePen](https://codepen.io/syldess/full/ZEpvbQM).
 
 ## License
 
